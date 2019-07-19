@@ -1,0 +1,25 @@
+{
+  "name": "Express_node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "express1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "art-template": "^4.13.2",
+    "body-parser": "^1.19.0",
+    "cookie-parser": "^1.4.4",
+    "ejs": "^2.6.2",
+    "express": "^4.17.1",
+    "express-art-template": "^1.0.1",
+    "express-session": "^1.16.2",
+    "multer": "^1.4.2"
+  },
+  "devDependencies": {
+    "silly-datetime": "^0.1.2"
+  }
+}
