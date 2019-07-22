@@ -1,0 +1,16 @@
+{
+  "name": "a2019_7_22",
+  "version": "1.0.0",
+  "description": "",
+  "main": "mongo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "silly-datetime": "^0.1.2"
+  }
+}
